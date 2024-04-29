@@ -9,23 +9,28 @@
 <br />
 <br />
 
-### 👨‍💻 Languages - Frameworks - Technologies - Tools  🛠
-<br>
-
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+###  👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=30A3DC)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=30A3DC)
-
 ![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=r&logoColor=30A3DC)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=30A3DC)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=30A3DC)
+
+###  👨‍💻 Tools 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-![postgresql](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql&logoColor=30A3DC)
 ![Power Bi](https://img.shields.io/badge/PowerBi-000?style=for-the-badge&logo=powerbi&logoColor=30A3DC)
 
-###
+
+###  👨‍💻 Markup Languages and Style 
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+
+###  👨‍💻 Database system
+![postgresql](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql&logoColor=30A3DC)
+
+<br />
+<br />
+
 <div id="header" align="center">
 <img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanspereira&hide=html&layout=compact&theme=calm" /></td> <a href="https://github.com/jonathanspereira/"> <img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api?username=jonathanspereira&show_icons=true&theme=calm&include_commits=true"/>
 </div>
