@@ -1,5 +1,8 @@
-### <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="30" style="vertical-align: middle;"> Hello World! My name is Jonathan da Silva Pereira
-#### Computer science student 
+<p align="center">
+  <a href="https://github.com/jonathanspereira/readme-typing-svg">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=5&color=0046F7&center=true&vCenter=true&multiline=true&random=false&width=435&height=150&lines=Hello+World!+;My+name+is+Jonathan+Pereira;Computer+science+student+" alt="Typing SVG" /></a>
+</p>
+
 <i>(Recife, PE - Brasil) </i>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-pereira-791ba719a/)
